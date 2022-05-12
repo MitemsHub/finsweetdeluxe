@@ -9,11 +9,6 @@
 .container {
     width: 80%;
     margin: 0 auto;
-    font-family: "Manrope", sans-serif;
-}
-
-.container p {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .container h2 {
@@ -187,8 +182,6 @@
     text-align: center;
     width: 48%;
     margin-bottom: 12px;
-
-
 }
 
 .serviceRight {
